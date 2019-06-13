@@ -90,6 +90,9 @@ spec:
           volumeMounts:
             - name: config
               mountPath: /config
+            - name: "oauth-key"
+              mountPath: "/opt/redash"
+              readOnly: true
           env:
             - name: REDASH_COOKIE_SECRET
               valueFrom:
