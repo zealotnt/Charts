@@ -21,7 +21,7 @@ entries:
     sources:
     - https://github.com/getredash/redash
     urls:
-    - https://zealotnt.github.io/redash/redash/redash-1.0.1.tgz
+    - https://zealotnt.github.io/Charts/redash/redash-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v1
     appVersion: 6.0.0.b8537
@@ -43,6 +43,6 @@ entries:
     sources:
     - https://github.com/getredash/redash
     urls:
-    - https://zealotnt.github.io/redash/redash/redash-1.0.0.tgz
+    - https://zealotnt.github.io/Charts/redash/redash-1.0.0.tgz
     version: 1.0.0
 generated: 2019-06-13T11:11:08.920707+07:00
