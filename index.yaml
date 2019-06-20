@@ -3,10 +3,10 @@ entries:
   redash:
   - apiVersion: v1
     appVersion: 7.0.0.b18042
-    created: 2019-06-20T12:19:22.215763+07:00
+    created: 2019-06-20T12:23:30.510779+07:00
     description: Redash is an open source tool built for teams to query, visualize
       and collaborate.
-    digest: 2ef34649b756a428c81acc07b73cbc9d8f90eb97fcc0bb3fce9c873f134e6d00
+    digest: 9e9b3c510ef39c44fc5f52bf1595c0d30cc7f024afd5fe0dcd3a2ed045375452
     engine: gotpl
     home: https://redash.io/
     icon: https://redash.io/assets/images/elements/redash-logo.svg
@@ -21,50 +21,6 @@ entries:
     sources:
     - https://github.com/getredash/redash
     urls:
-    - https://zealotnt.github.io/Charts/redash/redash-1.0.2.tgz
+    - https://zealotnt.github.io/Charts/redash-1.0.2.tgz
     version: 1.0.2
-  - apiVersion: v1
-    appVersion: 6.0.0.b8537
-    created: 2019-06-20T12:19:21.936684+07:00
-    description: Redash is an open source tool built for teams to query, visualize
-      and collaborate.
-    digest: 15c36f60fe6b35b18ac29f557d24cb2f5b3e8f7f9a512e5643af95182d604c93
-    engine: gotpl
-    home: https://redash.io/
-    icon: https://redash.io/assets/images/elements/redash-logo.svg
-    keywords:
-    - redash
-    - analytics
-    - vizualisation
-    maintainers:
-    - email: owen.barton@civicactions.com
-      name: grugnog
-    name: redash
-    sources:
-    - https://github.com/getredash/redash
-    urls:
-    - https://zealotnt.github.io/Charts/redash/redash-1.0.1.tgz
-    version: 1.0.1
-  - apiVersion: v1
-    appVersion: 6.0.0.b8537
-    created: 2019-06-20T12:19:21.677557+07:00
-    description: Redash is an open source tool built for teams to query, visualize
-      and collaborate.
-    digest: 22b400a7a31880846f3d10d9daa102cf0e0e0cc418983aeafe0009081458b7a0
-    engine: gotpl
-    home: https://redash.io/
-    icon: https://redash.io/assets/images/elements/redash-logo.svg
-    keywords:
-    - redash
-    - analytics
-    - vizualisation
-    maintainers:
-    - email: owen.barton@civicactions.com
-      name: grugnog
-    name: redash
-    sources:
-    - https://github.com/getredash/redash
-    urls:
-    - https://zealotnt.github.io/Charts/redash/redash-1.0.0.tgz
-    version: 1.0.0
-generated: 2019-06-20T12:19:21.674264+07:00
+generated: 2019-06-20T12:23:30.104109+07:00
