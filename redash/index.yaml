@@ -3,7 +3,7 @@ entries:
   redash:
   - apiVersion: v1
     appVersion: 7.0.0.b18042
-    created: 2019-06-20T11:54:03.1773+07:00
+    created: 2019-06-20T12:16:33.100759+07:00
     description: Redash is an open source tool built for teams to query, visualize
       and collaborate.
     digest: 2ef34649b756a428c81acc07b73cbc9d8f90eb97fcc0bb3fce9c873f134e6d00
@@ -21,11 +21,11 @@ entries:
     sources:
     - https://github.com/getredash/redash
     urls:
-    - https://zealotnt.github.io/Charts/redash-1.0.2.tgz
+    - https://zealotnt.github.io/Charts/redash/redash/redash-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v1
     appVersion: 6.0.0.b8537
-    created: 2019-06-20T11:54:03.421524+07:00
+    created: 2019-06-20T12:16:32.822906+07:00
     description: Redash is an open source tool built for teams to query, visualize
       and collaborate.
     digest: 15c36f60fe6b35b18ac29f557d24cb2f5b3e8f7f9a512e5643af95182d604c93
@@ -43,11 +43,11 @@ entries:
     sources:
     - https://github.com/getredash/redash
     urls:
-    - https://zealotnt.github.io/Charts/redash/redash-1.0.1.tgz
+    - https://zealotnt.github.io/Charts/redash/redash/redash-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v1
     appVersion: 6.0.0.b8537
-    created: 2019-06-20T11:54:03.181157+07:00
+    created: 2019-06-20T12:16:32.544213+07:00
     description: Redash is an open source tool built for teams to query, visualize
       and collaborate.
     digest: 22b400a7a31880846f3d10d9daa102cf0e0e0cc418983aeafe0009081458b7a0
@@ -65,6 +65,6 @@ entries:
     sources:
     - https://github.com/getredash/redash
     urls:
-    - https://zealotnt.github.io/Charts/redash/redash-1.0.0.tgz
+    - https://zealotnt.github.io/Charts/redash/redash/redash-1.0.0.tgz
     version: 1.0.0
-generated: 2019-06-20T11:54:02.799695+07:00
+generated: 2019-06-20T12:16:32.526961+07:00
