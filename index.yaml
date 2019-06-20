@@ -3,7 +3,29 @@ entries:
   redash:
   - apiVersion: v1
     appVersion: 7.0.0.b18042
-    created: 2019-06-20T12:49:53.295758+07:00
+    created: 2019-06-20T14:39:50.106957+07:00
+    description: Redash is an open source tool built for teams to query, visualize
+      and collaborate.
+    digest: 3fe3f14f5835b87b664d9895ff8bb015f92d88c37f7cd87e9d0d1ea8f1a3665a
+    engine: gotpl
+    home: https://redash.io/
+    icon: https://redash.io/assets/images/elements/redash-logo.svg
+    keywords:
+    - redash
+    - analytics
+    - vizualisation
+    maintainers:
+    - email: owen.barton@civicactions.com
+      name: grugnog
+    name: redash
+    sources:
+    - https://github.com/getredash/redash
+    urls:
+    - https://zealotnt.github.io/Charts/redash-1.0.3.tgz
+    version: 1.0.3
+  - apiVersion: v1
+    appVersion: 7.0.0.b18042
+    created: 2019-06-20T14:39:50.097092+07:00
     description: Redash is an open source tool built for teams to query, visualize
       and collaborate.
     digest: ce4d1aa7ffcc9b793a6d82f341851d0d07f873dc85c7f6fba6d0890e25de2361
@@ -23,4 +45,4 @@ entries:
     urls:
     - https://zealotnt.github.io/Charts/redash-1.0.2.tgz
     version: 1.0.2
-generated: 2019-06-20T12:49:53.293344+07:00
+generated: 2019-06-20T14:39:50.059594+07:00
