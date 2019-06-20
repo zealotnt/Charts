@@ -5,7 +5,7 @@
 ##
 image:
   repository: redash/redash
-  tag: 6.0.0.b8537
+  tag: 7.0.0.b18042
   pullPolicy: IfNotPresent
 
 ## Override the name of the chart
@@ -18,6 +18,8 @@ nameOverride: ""
 env:
   PYTHONUNBUFFERED: 0
   REDASH_LOG_LEVEL: "INFO"
+  REDASH_GOOGLE_CLIENT_ID: ""
+  REDASH_GOOGLE_CLIENT_SECRET: ""
 
 ## Configuration for Redash web server
 ##
@@ -192,7 +194,7 @@ postgresql:
 redis:
   ## If the password is not specified, a random password will be generated
   ##
-  # password:
+  password: "asdfgasdfg"
   databaseNumber: 0
   master:
     port: 6379
