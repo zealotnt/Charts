@@ -3,10 +3,10 @@ entries:
   redash:
   - apiVersion: v1
     appVersion: 7.0.0.b18042
-    created: 2019-06-20T12:23:30.510779+07:00
+    created: 2019-06-20T12:49:53.295758+07:00
     description: Redash is an open source tool built for teams to query, visualize
       and collaborate.
-    digest: 9e9b3c510ef39c44fc5f52bf1595c0d30cc7f024afd5fe0dcd3a2ed045375452
+    digest: ce4d1aa7ffcc9b793a6d82f341851d0d07f873dc85c7f6fba6d0890e25de2361
     engine: gotpl
     home: https://redash.io/
     icon: https://redash.io/assets/images/elements/redash-logo.svg
@@ -23,4 +23,4 @@ entries:
     urls:
     - https://zealotnt.github.io/Charts/redash-1.0.2.tgz
     version: 1.0.2
-generated: 2019-06-20T12:23:30.104109+07:00
+generated: 2019-06-20T12:49:53.293344+07:00
